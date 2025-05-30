@@ -1,6 +1,6 @@
 # Manual_Testing
 
-This repository contains test cases,  mindmaps, bug reports, and test metrics for manual testing projects. It serves as a comprehensive resource for manual testers to effectively plan, execute, and track their testing efforts.
+This repository contains test cases and bug reports for manual testing projects. It serves as a comprehensive resource for manual testers to effectively plan, execute, and track their testing efforts.
 
 
 ## Table of Contents
@@ -25,8 +25,6 @@ The test-cases directory contains a collection of test cases written for differe
 - Final Status
 
 Test cases are essential for ensuring thorough test coverage and providing a clear roadmap for manual testing.
-## Mindmaps
-The mindmaps contains visual representations in the form of mindmaps. These mindmaps serve as a visual aid to understand the test coverage, dependencies between different features, and potential areas of focus during testing. Testers can use mindmaps to brainstorm ideas, track testing progress, and identify any gaps in their testing efforts.
 ## Bug Reports
 The reports are dedicated to storing various reports generated during manual testing. Reports may include Issue,Reproducing Steps,Modularity,Severity.
 
