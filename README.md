@@ -7,7 +7,6 @@ This repository contains test cases and bug reports for manual testing projects.
 
 - Introduction
 - Test Cases
-- Mindmaps
 - Bug Reports
 ## Introduction
 In manual testing, it is crucial to have well-defined test cases, detailed scenarios, visual representations, insightful reports, and meaningful test metrics. This repository aims to provide a centralized location for organizing and documenting these artifacts to enhance the efficiency and effectiveness of manual testing projects.
